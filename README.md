@@ -39,11 +39,11 @@ Enlace para ver la grabación del flujo completo en **asciinema**:
 ```
 26a-pycasm-DeftOZK/
 ├── codigo/
-│   ├── app.py      
-│   ├── test.c      
-│   └── ops.S       
-├── main.c          
-├── Makefile        
+│   ├── Makefile    
+│   ├── app.py 
+│   ├── main.c     
+│   ├── ops.S
+│   └── test.c
 └── README.md       
 ```
 
